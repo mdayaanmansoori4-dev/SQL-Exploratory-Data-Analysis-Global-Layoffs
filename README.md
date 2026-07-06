@@ -38,4 +38,4 @@ SQL-Exploratory-Data-Analysis-Global-Layoffs/
 ```
 
 ## 👨‍💻 Author
-**Ayaan Mansoori**
+**Mohd Aayan**
